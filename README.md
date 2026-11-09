@@ -21,9 +21,4 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ooohi000/ooohi000/output/github-snake-dark.svg" />
-  <img alt="contributions" src="https://raw.githubusercontent.com/ooohi000/ooohi000/output/github-snake.svg" width="100%" />
-</picture>
-
 <p align="right"><sub><a href="mailto:ooohi00011@gmail.com">ooohi00011@gmail.com</a></sub></p>
