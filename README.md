@@ -92,8 +92,7 @@ const white0x = {
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ooohi000&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ooohi000&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&area=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=ooohi000&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 </p>
 
 <p align="center">
